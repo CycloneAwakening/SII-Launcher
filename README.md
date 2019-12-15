@@ -1,6 +1,6 @@
 # Sunrunner II Launcher
 
-**Electron application based on [dpwhittaker's RoC Launcher](https://github.com/dpwhittaker/RoC-Launcher) and [Tyclo's Adaptation](https://github.com/DesporoWace/SR-Launcher) **
+**Electron application based on [dpwhittaker's RoC Launcher](https://github.com/dpwhittaker/RoC-Launcher) and [Tyclo's Adaptation](https://github.com/DesporoWace/SR-Launcher)**
 
 **All graphics are either property of Sunrunner II or their respective authors. Consult before use**
 
