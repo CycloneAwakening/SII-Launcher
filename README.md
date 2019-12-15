@@ -1,14 +1,14 @@
-# SWG Awakening Launcher
+# Sunrunner II Launcher
 
 **Electron application based on [dpwhittaker's RoC Launcher](https://github.com/dpwhittaker/RoC-Launcher) and [Tyclo's Adaptation](https://github.com/DesporoWace/SR-Launcher) **
 
-**All graphics are either property of SWG Awakening or their respective authors. Consult before use**
+**All graphics are either property of Sunrunner II or their respective authors. Consult before use**
 
 **Launcher background by [Fantasio](https://www.fantasio.info/)**
 
 ## Features
 
-The SWG Awakening Launcher includes a new user friendly interface, a guided set up process, patching for multiple login servers and Linux/macOS compatibility. Also included are many other miscellaneous tweaks, improvements and new features.
+The Sunrunner II Launcher includes a new user friendly interface, a guided set up process, patching for multiple login servers and Linux/macOS compatibility. Also included are many other miscellaneous tweaks, improvements and new features.
 
 ## Get Started
 
@@ -16,10 +16,10 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/CycloneAwakening/SWGAwakening
+git clone https://github.com/CycloneAwakening/SII-Launcher
 
 # Go into the repository
-cd SWGAwakening
+cd SII-Launcher
 # Install dependencies
 npm install
 # Run the app
